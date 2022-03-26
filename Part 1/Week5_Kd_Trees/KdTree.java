@@ -64,6 +64,7 @@ public class KdTree {
                 else
                     return 1;
             }
+
         }
 
         // Duplicate function to compareTo(Point2D p) due to complaints from
